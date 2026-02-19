@@ -5,8 +5,8 @@
 // @description  Painel completo para gerenciamento de contas/tribos.
 // @author       TheArrow
 // @match        https://*.tribalwars.com.br/*
-// @updateURL    https://raw.githubusercontent.com/SEU_USUARIO/tw-shield/main/tw-shield.meta.js
-// @downloadURL  https://raw.githubusercontent.com/SEU_USUARIO/tw-shield/main/tw-shield.user.js
+// @updateURL    https://raw.githubusercontent.com/lucasvale95/tw-shield/main/tw-shield.meta.js
+// @downloadURL  https://raw.githubusercontent.com/lucasvale95/tw-shield/main/tw-shield.user.js
 // @connect      uychrksxdelvdmsphzwf.supabase.co
 // @connect      raw.githubusercontent.com
 // @connect      tribalwars.com.br
