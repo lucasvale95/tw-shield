@@ -10,7 +10,6 @@
 // @connect      uychrksxdelvdmsphzwf.supabase.co
 // @connect      raw.githubusercontent.com
 // @connect      tribalwars.com.br
-// @connect      generativelanguage.googleapis.com
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_xmlhttpRequest
