@@ -1,0 +1,11 @@
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 2L3 5V11C3 16.55 6.84 21.74 12 23C17.16 21.74 21 16.55 21 11V5L12 2Z" fill="url(#s6g)" stroke="#28a745" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M12 4.5L5 7V11.5C5 15.9 8.05 20 12 21.3C15.95 20 19 15.9 19 11.5V7L12 4.5Z" fill="none" stroke="rgba(40,167,69,0.2)" stroke-width="0.6"/>
+    <text x="12" y="13.5" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="7.5" fill="#28a745" letter-spacing="0.5">TW</text>
+    <defs>
+      <linearGradient id="s6g" x1="12" y1="2" x2="12" y2="23" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#162016"/>
+        <stop offset="1" stop-color="#0d1117"/>
+      </linearGradient>
+    </defs>
+  </svg>
