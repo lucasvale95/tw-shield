@@ -7,6 +7,7 @@
 // @match        https://*.tribalwars.com.br/*
 // @updateURL    https://raw.githubusercontent.com/lucasvale95/tw-shield/main/tw-shield.meta.js
 // @downloadURL  https://raw.githubusercontent.com/lucasvale95/tw-shield/main/tw-shield.user.js
+// @icon         https://raw.githubusercontent.com/lucasvale95/tw-shield/refs/heads/main/icon.svg
 // @connect      uychrksxdelvdmsphzwf.supabase.co
 // @connect      raw.githubusercontent.com
 // @connect      tribalwars.com.br
