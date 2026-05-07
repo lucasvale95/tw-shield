@@ -19,5 +19,5 @@
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @grant        GM_info
-// @run-at       document-idle
+// @run-at       document-start
 // ==/UserScript==
