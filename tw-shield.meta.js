@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TW Shield
 // @namespace    tw-shield
-// @version      1.1.5
+// @version      1.1.6
 // @description  Painel completo para gerenciamento de contas/tribos.
 // @author       TheArrow
 // @match        https://*.tribalwars.com.br/*
